@@ -29,7 +29,7 @@ más observables, repetibles y seguros.
 
 ## Proyectos en GitHub
 
-### [WSL Manager GUI](https://github.com/gilbertomanc/wsl-manager-gui)
+### [WSL Manager GUI](https://github.com/gilmanpro/wsl-manager-gui)
 
 Aplicación para gestionar distribuciones WSL2 desde una GUI de system tray,
 una CLI, una API REST, un panel web local y un servidor MCP para agentes LLM.
@@ -37,7 +37,7 @@ Las interfaces comparten los mismos providers y operaciones.
 
 `Python` `WSL2` `CLI` `REST API` `MCP` `Tkinter`
 
-### [Port Forwarder App](https://github.com/gilbertomanc/port-forwarder-app)
+### [Port Forwarder App](https://github.com/gilmanpro/port-forwarder-app)
 
 Herramienta para administrar redirecciones de puertos entre Windows y WSL,
 túneles SSH hacia VPS, supervisión, health checks, alertas, panel web, API
