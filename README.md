@@ -29,9 +29,18 @@ más observables, repetibles y seguros.
 
 ## Proyectos en GitHub
 
+### [wsl-port](https://github.com/gilmanpro/wsl-port)
+
+Aplicacion unificada que fusiona WSL Manager y Port Forwarder en una sola
+ventana: gestion de distros WSL, redireccion de puertos Windows→WSL, tuneles
+SSH hacia VPS, publicacion en Internet con 1 clic, supervisor automatico,
+health checks, alertas, scheduler, perfiles, panel web, API REST y MCP.
+
+`Python` `WSL2` `SSH` `CLI` `REST API` `MCP` `Tkinter` `Docker`
+
 ### [WSL Manager GUI](https://github.com/gilmanpro/wsl-manager-gui)
 
-Aplicación para gestionar distribuciones WSL2 desde una GUI de system tray,
+Aplicacion para gestionar distribuciones WSL2 desde una GUI de system tray,
 una CLI, una API REST, un panel web local y un servidor MCP para agentes LLM.
 Las interfaces comparten los mismos providers y operaciones.
 
@@ -40,7 +49,7 @@ Las interfaces comparten los mismos providers y operaciones.
 ### [Port Forwarder App](https://github.com/gilmanpro/port-forwarder-app)
 
 Herramienta para administrar redirecciones de puertos entre Windows y WSL,
-túneles SSH hacia VPS, supervisión, health checks, alertas, panel web, API
+tuneles SSH hacia VPS, supervision, health checks, alertas, panel web, API
 REST, CLI y MCP.
 
 `Python` `Windows` `WSL2` `SSH` `Docker` `REST API` `MCP`
