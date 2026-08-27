@@ -7,7 +7,7 @@ infraestructura TI y las redes hasta los pipelines de datos, las APIs y la
 aplicación que utiliza el usuario final.
 
 [![Website](https://img.shields.io/badge/Website-gilman.pro-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://perfil.gilman.pro/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto%20Castillo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gilberto-castillo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto%20Castillo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilmanpro/)
 [![Email](https://img.shields.io/badge/Email-gilberto%40gilman.pro-06B6D4?style=flat-square&logo=gmail&logoColor=white)](mailto:gilberto@gilman.pro)
 
 ## Sobre mí
@@ -119,5 +119,5 @@ Estoy abierto a conversar sobre automatización, datos, infraestructura,
 soluciones para operaciones, proyectos freelance y consultoría.
 
 - [Web y portafolio](https://perfil.gilman.pro/)
-- [LinkedIn](https://linkedin.com/in/gilberto-castillo)
+- [LinkedIn](https://www.linkedin.com/in/gilmanpro/)
 - [Email](mailto:gilberto@gilman.pro)
