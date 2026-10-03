@@ -54,6 +54,13 @@ REST, CLI y MCP.
 
 `Python` `Windows` `WSL2` `SSH` `Docker` `REST API` `MCP`
 
+## Skills
+
+Skills de agentes publicadas en [skills.sh](https://www.skills.sh):
+
+- **[mcp-ahorro-tokens](https://www.skills.sh/gilmanpro/mcp-ahorro-tokens/mcp-ahorro-tokens)** — ahorra tokens de LLM: activa y desactiva servidores MCP de OpenCode bajo demanda y los sondea, audita o llama sin activarlos ([repo](https://github.com/gilmanpro/mcp-ahorro-tokens) · [pack](https://www.skills.sh/p/uCeRomrVthNSsvAa)).
+  Instalación: `npx skills add gilmanpro/mcp-ahorro-tokens`
+
 ## Proyectos destacados del portafolio
 
 | Proyecto | Qué resuelve | Tecnologías principales |
